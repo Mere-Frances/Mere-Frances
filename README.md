@@ -41,9 +41,9 @@ Feel free to reach out, whether that’s a quick coffee chat or a short email. �
 
 [My website](mere-lees.vercel.app)
 
-LinkedIn: linkedin.com/in/meredith-lees-49a166274
+[My LinkedIn](linkedin.com/in/meredith-lees-49a166274)
 
-About Me
+## About Me
 
 Feel free to reach out, whether that’s a quick coffee chat or a short email. I’d love to connect and explore opportunities to collaborate or simply share insights.
 
