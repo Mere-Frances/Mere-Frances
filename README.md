@@ -1,4 +1,4 @@
-# Kia ora, Welcome to my GitHub Profile!
+# Kia ora, Welcome!
 
 ### About me
 My name is Mere, I am a creative UI/UX designer and developer, born and raised here in Aotearoa.
@@ -43,7 +43,7 @@ Feel free to reach out, whether that’s a quick coffee chat or a short email. �
 
 [My LinkedIn](linkedin.com/in/meredith-lees-49a166274)
 
-## About Me
+## Chit Chat
 
 Feel free to reach out, whether that’s a quick coffee chat or a short email. I’d love to connect and explore opportunities to collaborate or simply share insights.
 
