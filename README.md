@@ -13,9 +13,7 @@ Feel free to reach out, whether thatâ€™s a quick coffee chat or a short email. ð
 
 ### Languages:
 
-`JavaScript`
-
-`HTML5` & `CSS3`
+<img src="{[BadgeURLHere](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)}" /> <img src="{[BadgeURLHere](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)}" /> 
 
 SCSS
 
