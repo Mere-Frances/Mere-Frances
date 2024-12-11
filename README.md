@@ -16,40 +16,29 @@ Feel free to reach out, whether thatâ€™s a quick coffee chat or a short email. ð
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
-SCSS
+### Frontend Technologies:
 
-Frontend Technologies:
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
-React
+### Backend Technologies:
 
-SASS
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Backend Technologies:
+### Other Tech:
 
-Express.js
+![Gulp](https://img.shields.io/badge/Gulp-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-%2376D04B.svg?style=for-the-badge&logo=nodemon&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-MongoDB
+## Connect With Me
 
-Other Tech Stack:
-
-Gulp
-
-npm
-
-Nodemon
-
-Figma
-
-Adobe Creative Suite
-
-jQuery
-
-GitHub Stats
-
-
-
-Connect With Me
 [My website](mere-lees.vercel.app)
 
 LinkedIn: linkedin.com/in/meredith-lees-49a166274
