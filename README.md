@@ -13,9 +13,9 @@ Feel free to reach out, whether thatâ€™s a quick coffee chat or a short email. ð
 
 ### Languages:
 
-JavaScript
+`JavaScript`
 
-HTML5 & CSS3
+`HTML5` & `CSS3`
 
 SCSS
 
