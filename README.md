@@ -1,7 +1,13 @@
-Hi there, I'm Mere Lees 👋
+# Kia ora, Welcome to my GitHub Profile!
 
-I am a creative UI/UX designer and developer, born and raised here in Aotearoa. I spent two years pursuing my design career in Te Whanganui-a-Tara, Wellington. Originally, I spent the first two years after high school at the University of Otago, pursuing a Bachelor of Arts while trying to discover my passions and find my place in the world. It was during these two years that I came to understand my true calling was in the design industry. Encouraged by family and friends to follow my heart and passions, I found the courage to change direction in my career and take a leap of faith.
+### ABout me
+My name is Mere, I am a creative UI/UX designer and developer, born and raised here in Aotearoa.
 
+I spent two years pursuing my design career in Te Whanganui-a-Tara, Wellington. Originally, I spent the first two years after high school at the University of Otago, pursuing a Bachelor of Arts while trying to discover my passions and find my place in the world.
+
+It was during these two years that I came to understand my true calling was in the design industry. Encouraged by family and friends to follow my heart and passions, I found the courage to change direction in my career and take a leap of faith.
+
+Feel free to reach out, whether that’s a quick coffee chat or a short email. 😊
 Languages & Tools
 
 Languages:
